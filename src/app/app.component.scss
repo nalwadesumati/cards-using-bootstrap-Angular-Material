@@ -1,0 +1,42 @@
+.task-heading {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: darkmagenta;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.task-subheading {
+  font-size: 1.5rem;
+  padding: 16px;
+  color: chocolate;
+  background-color: antiquewhite;
+}
+.postCard {
+  h2 {
+    height: 40px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+.card-gallery-title {
+  font-size: 40px;
+  font-weight: 600;
+  color: cyan;
+  letter-spacing: 1px;
+  position: relative;
+}
+.card-gallery h2 {
+  padding: 16px;
+}
+.card-gallery-title::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 3px;
+  background-color: #3f51b5;
+  background-color: antiquewhite;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}

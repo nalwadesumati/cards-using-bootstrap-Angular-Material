@@ -1,0 +1,92 @@
+export const skillDataArr = [
+  {
+    userId: 1,
+    id: 1,
+    title: 'HTML',
+    body: 'Strong knowledge of HTML5 for creating structured, semantic, and accessible web pages.',
+  },
+  {
+    userId: 1,
+    id: 2,
+    title: 'CSS',
+    body: 'Experienced in CSS3 for styling layouts, responsive design, flexbox, grid, and animations.',
+  },
+  {
+    userId: 1,
+    id: 3,
+    title: 'Bootstrap',
+    body: 'Hands-on experience with Bootstrap for responsive layouts, grid system, and UI components.',
+  },
+  {
+    userId: 1,
+    id: 4,
+    title: 'JavaScript',
+    body: 'Good understanding of JavaScript concepts such as variables, functions, DOM manipulation, and events.',
+  },
+  {
+    userId: 1,
+    id: 5,
+    title: 'TypeScript',
+    body: 'Experience using TypeScript with strong typing, interfaces, classes, and Angular best practices.',
+  },
+  {
+    userId: 1,
+    id: 6,
+    title: 'Angular',
+    body: 'Skilled in Angular framework including components, directives, services, routing, and data binding.',
+  },
+  {
+    userId: 1,
+    id: 7,
+    title: 'Angular Material',
+    body: 'Experience using Angular Material for modern UI components like buttons, cards, dialogs, and tooltips.',
+  },
+  {
+    userId: 1,
+    id: 8,
+    title: 'REST API Integration',
+    body: 'Ability to consume REST APIs using HttpClient and handle responses, errors, and observables.',
+  },
+  {
+    userId: 1,
+    id: 9,
+    title: 'Git & GitHub',
+    body: 'Knowledge of Git version control including repositories, branches, commits, and GitHub workflows.',
+  },
+  {
+    userId: 1,
+    id: 10,
+    title: 'Problem Solving',
+    body: 'Strong problem-solving skills with the ability to debug issues and write clean, maintainable code.',
+  },
+  {
+    userId: 1,
+    id: 11,
+    title: 'Responsive Design',
+    body: 'Experience building responsive applications that work well on desktop, tablet, and mobile devices.',
+  },
+  {
+    userId: 1,
+    id: 12,
+    title: 'RxJS',
+    body: 'Basic understanding of RxJS concepts like observables, operators, and subscriptions in Angular.',
+  },
+  {
+    userId: 1,
+    id: 13,
+    title: 'Form Handling',
+    body: 'Experience with template-driven and reactive forms including validation and user input handling.',
+  },
+  {
+    userId: 1,
+    id: 14,
+    title: 'Debugging',
+    body: 'Ability to debug applications using browser developer tools and Angular error messages.',
+  },
+  {
+    userId: 1,
+    id: 15,
+    title: 'Clean Code',
+    body: 'Focus on writing clean, readable, and reusable code following best practices and standards.',
+  },
+];
